@@ -50,7 +50,7 @@ Before the game starts, the player can select a board size between **6x6 and 12x
 
 *(Preview of the board with 6x6 scale)*
 
-![Board](./public/tabuleiro.png)
+![Board](./public/Desktop%20(1).png)
 
 ---
 
@@ -58,7 +58,7 @@ Before the game starts, the player can select a board size between **6x6 and 12x
 
 *(Official challenge rules for Unvoid Chess)*
 
-![Rules](./public/regras.png)
+![Rules](./public/%F0%9F%93%9C%20README.png)
 
 ---
 
